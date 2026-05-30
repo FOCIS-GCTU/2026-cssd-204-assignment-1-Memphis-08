@@ -1,15 +1,15 @@
 #This is my header
-print("#File:initials.py")
-print("#Description: Displaying my initials")
-print("#Assignment Number:1")
-print("#")
-print("#Name:Dwirah Victor")
-print("#STUDENT ID:2425404023")
-print("#Email:victordwirah@gmail.com")
-print("#Grader:Augustus")
-print("#")
-print("# On my honor,Augustus Buckman, this programming assignment is my own work ")
-print("#and I have not provided this code to any student")
+#File:initials.py
+#Description: Displaying my initials
+#Assignment Number:1
+#
+#Name:Dwirah Victor
+#STUDENT ID:2425404023
+#Email:2425404023@live.gctu.edu.gh
+#Grader:Augustus
+#
+# On my honor,Dwirah Victor, this programming assignment is my own work 
+#and I have not provided this code to any student
 
 
 def main():
