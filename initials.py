@@ -8,7 +8,7 @@
 #Email:2425404023@live.gctu.edu.gh
 #Grader:Augustus
 #
-# On my honor,Dwirah Victor, this programming assignment is my own work 
+# On my honor,Dwirah Victor,this programming assignment is my own work 
 #and I have not provided this code to any student
 
 
